@@ -1,0 +1,19 @@
+{
+  "name": "default-project-setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/grasek/default-project-setup"
+  },
+  "author": "grasek",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.16.2",
+    "typescript": "^5.0.4"
+  }
+}
